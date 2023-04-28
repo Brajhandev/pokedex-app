@@ -9,7 +9,7 @@ const Home = () => {
             <img src="" alt="" />
           </div>
           <h2>Hola Entrenador:</h2>
-          <p>Para poder comenzar, dame tu nombre</p>
+          <p>Para poder comenzar, dame tu nombre campeon</p>
           <div>
             <input className="border border-gray-800" type="text" />
             <button className="px-3 bg-red-700">Comenzar</button>
